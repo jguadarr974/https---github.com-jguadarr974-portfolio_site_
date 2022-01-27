@@ -1,3 +1,25 @@
 .font-weight-bold{
-    color: #fff;
+    color:rgb(255, 255, 255);
+    text-align: center;
+    margin-right: 85px;
+    text-decoration: underline;
+
+}
+
+body{
+    background-color: rgb(21, 33, 44);
+}
+
+.col-5{
+    align-content: center;
+    margin-left: 95px;
+}
+
+.row{
+    align-items:center;
+}
+
+h2, h3, p{
+    color: rgb(155, 196, 151);
+    
 }
